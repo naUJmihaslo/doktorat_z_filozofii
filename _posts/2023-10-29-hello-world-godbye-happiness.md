@@ -2,6 +2,7 @@
 layout: post
 title: Filozofowanie na dywanie
 categories: [content, demo]
+image: /assets/image/kiepscy_znieczulica_społeczna.PNG
 ---
 
 Witam Państwa! Na tym blogu zajmiemy się dyskutowaniem fundamentalnych kwestii filozoficznych i psychologicznych poruszanych w serialu Świat Według Kiepskich
